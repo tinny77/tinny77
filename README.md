@@ -1,25 +1,23 @@
+
 <h1 align="left">Ciao! 👋🏻</h1>
 
 ###
 
-<h3 align="left">✨ Crafting with WordPress, Exploring React ⎸ Open to Remote Adventures 🧑🏻‍💻</h3>
+<h3 align="left">Passionate Front-end and WordPress Developer | CSS Specialist | UX-Oriented | Junior in React 🧑🏻‍💻</h3>
 
 ###
 
 <p align="left">
-#🛠️ Technical Proficiency:<br/>
-
+🛠️ <strong>Technical Proficiency</strong>:<br/>
 🌐 Senior Front-end Developer: Proven expertise in crafting responsive and visually appealing websites using cutting-edge technologies.<br/>
 🖌️ WordPress Maestro: Mid-level proficiency in WordPress development, transforming ideas into functional and aesthetically pleasing websites.<br/>
 
-#🚀 Embarking on the React Journey:<br/>
-
-🚀 Junior React Enthusiast: Currently delving into the exciting world of React to elevate my skills and stay at the forefront of modern web development.<br/>
+🚀 <strong>Embarking on the React Journey</strong>:
+🚀 Junior React Enthusiast: Currently delving into the exciting world of React to elevate my skills and stay at the forefront of modern web development.
 📚 Lifelong Learner: Committed to continuous learning and growth, I'm dedicated to mastering React and staying updated on industry trends.<br/>
 
-#👨‍💻 Seeking Remote Opportunities:<br/>
-
-💼 Actively exploring new opportunities for a 100% full remote role as a Front-end or WordPress Developer.<br/>
+👨‍💻 <strong>Seeking Remote Opportunities</strong>:
+💼 Actively exploring new opportunities for a 100% full remote role as a Front-end or WordPress Developer.
 🌍 Location-Independent: Ready to contribute my expertise from Verona to any corner of the globe.  <br/>
   </p>
 
