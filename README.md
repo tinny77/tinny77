@@ -6,16 +6,22 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a front-end developer with over 17 years of experience, and I thrive on overcoming challenges in the digital realm.<br/>
-🌐 I excel in translating designs into pixel-perfect, responsive HTML code, paying meticulous attention to detail<br/>
-🚀 My expertise lies in optimizing website performance and refining visuals using leading photo editing tools.<br/>
-🎨 With a solid background in WordPress, CSS, HTML, and JavaScript, I bring accuracy and uniqueness to digital projects.<br/>
-📅 My web development journey began in 2006, immersing myself in the intricacies of HTML, CSS, and JavaScript.<br/>
-🔄 I gradually shifted my focus to WordPress, actively contributing to the ecosystem and customizing themes.<br/>
-🔧 In 2023, I made the bold decision to dedicate myself to intense learning, diving into contemporary JavaScript and exploring React.<br/>
-🏋️‍♂️ When I'm not coding, you'll find me at the gym or enjoying leisurely walks while listening to podcasts.<br/>
-⚽ I'm passionate about football and Formula One, always staying updated on the latest tech advancements.<br/>
-🎵 As a music enthusiast, I have a special love for Oasis and the iconic sounds of the Gallagher brothers.</p>
+<p align="left">
+#🛠️ Technical Proficiency:<br/>
+
+🌐 Senior Front-end Developer: Proven expertise in crafting responsive and visually appealing websites using cutting-edge technologies.<br/>
+🖌️ WordPress Maestro: Mid-level proficiency in WordPress development, transforming ideas into functional and aesthetically pleasing websites.<br/>
+
+#🚀 Embarking on the React Journey:<br/>
+
+🚀 Junior React Enthusiast: Currently delving into the exciting world of React to elevate my skills and stay at the forefront of modern web development.<br/>
+📚 Lifelong Learner: Committed to continuous learning and growth, I'm dedicated to mastering React and staying updated on industry trends.<br/>
+
+#👨‍💻 Seeking Remote Opportunities:<br/>
+
+💼 Actively exploring new opportunities for a 100% full remote role as a Front-end or WordPress Developer.<br/>
+🌍 Location-Independent: Ready to contribute my expertise from Verona to any corner of the globe.  <br/>
+  </p>
 
 
 ###
