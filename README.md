@@ -30,7 +30,7 @@
   <!--img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"  /-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  /><img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg](https://www.iconsdb.com/icons/preview/white/wordpress-6-xxl.png" height="40" alt="WordPress logo" />
+  <img src="https://www.iconsdb.com/icons/preview/white/wordpress-6-xxl.png" height="40" alt="WordPress logo" />
 </div>
 
 ###
