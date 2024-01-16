@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">✨ Crafting with WordPress, Exploring React ⎸ Open to Remote Adventures ✨</h3>
+<h3 align="left">✨ Crafting with WordPress, Exploring React ⎸ Open to Remote Adventures 🧑🏻‍💻</h3>
 
 ###
 
@@ -16,6 +16,7 @@
 🏋️‍♂️ When I'm not coding, you'll find me at the gym or enjoying leisurely walks while listening to podcasts.<br/>
 ⚽ I'm passionate about football and Formula One, always staying updated on the latest tech advancements.<br/>
 🎵 As a music enthusiast, I have a special love for Oasis and the iconic sounds of the Gallagher brothers.</p>
+
 
 ###
 
@@ -39,7 +40,7 @@
 
 ###
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  /><img width="12" /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SCSS logo"  /><img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS logo"  /><img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"  /><img width="12" />
