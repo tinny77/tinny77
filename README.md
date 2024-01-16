@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Dedicated Frontend Developer | Crafting with WordPress, Exploring React | Open to Remote Adventures ✨</h3>
+<h3 align="left">✨ Crafting with WordPress, Exploring React ⎸ Open to Remote Adventures ✨</h3>
 
 ###
 
