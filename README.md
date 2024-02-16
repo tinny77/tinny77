@@ -1,4 +1,4 @@
-<h2 align="left">Passionate Front-end and WordPress Developer | CSS Specialist | UX-Oriented | Junior in React 🧑🏻‍💻</h2>
+<h2 align="left">Passionate Front-end and WordPress Developer | CSS Specialist | UX-Oriented 🧑🏻‍💻</h2>
 
 ###
 
