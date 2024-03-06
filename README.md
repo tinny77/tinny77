@@ -1,4 +1,4 @@
-<h2 align="left">Front-end and WordPress Developer | CSS Specialist | UX-Oriented 🧑🏻‍💻</h2>
+<h2 align="left">Front-end and WordPress Developer | CSS Specialist | UX-Oriented</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">I manage data  with</h2>
+<h2 align="left">I manage data with</h2>
 
 ###
 <div>
