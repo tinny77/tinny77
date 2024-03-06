@@ -30,8 +30,7 @@
   <img src="https://www.iconsdb.com/icons/preview/white/wordpress-6-xxl.png" height="40" alt="WordPress logo" /><img width="12" />
     <!--img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"  /-->
-    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React logo"  /> <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo"  /> 
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React logo"  /> 
 </div>
 
 ###
