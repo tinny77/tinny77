@@ -73,7 +73,7 @@
 
 ###
 
-<h2 align="left">Ciao! 👋🏻 Let's keep in touch!</h2>
+<h2 align="left">Let's keep in touch!</h2>
 
 ###
 <div align="left">
@@ -83,3 +83,5 @@
 </div>
 
 ###
+
+Ciao! 👋🏻
